@@ -2,4 +2,6 @@
 Joaquin De Sosa </br>
 Lucas de los Angeles </br>
 Leandro Escobal </br>
-Manuel Pérez
+Manuel Pérez</br>
+-------------</br>
+GRUPO 6
