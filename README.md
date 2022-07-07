@@ -1,3 +1,4 @@
 # examen_integrador
 Joaquin De Sosa </br>
-Lucas de los Angeles
+Lucas de los Angeles </br>
+Leandro Escobal
